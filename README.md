@@ -1,8 +1,8 @@
 # Web-Technologies-Laboratory
-Name :Gondela Maddhuri
-Roll.No: 24881A1224
-section : IT-A 
-Course : Web Technologies Laboratory 
+# Name :Gondela Maddhuri
+# Roll.No: 24881A1224
+# section : IT-A 
+# Course : Web Technologies Laboratory 
 # Description
 # Week-1
 1.created a static web page, the page consists of a table with set of links to products available in an online mobile store. Each product link has a separate web page to describe product information like image, features as a list, and a short video to demonstrate product.
