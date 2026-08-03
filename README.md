@@ -1,7 +1,7 @@
 # Web-Technologies-Laboratory
- Name :Gondela Maddhuri
- Roll.No: 24881A1224
- section : IT-A 
+Name :Gondela Madhuri
+Roll.No: 24881A1224
+section : IT-A 
 Course : Web Technologies Laboratory 
 # Description
 # Week-1
